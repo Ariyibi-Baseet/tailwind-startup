@@ -1,3 +1,21 @@
 @tailwind base;
 @tailwind component;
 @tailwind utilities;
+
+@layer base {
+    .primary-color{
+        color:#BA68C8;
+    }
+    .primary-bg-color{
+        background-color:#BA68C8;
+    }
+    .active-btn{
+        backgound-color:#37474F;
+    }
+    .active-btn-hover{
+        background-color:#E6E6E6;
+    }
+    .all-font{
+        font-family:'Poppins', sans-serif;
+    }
+}

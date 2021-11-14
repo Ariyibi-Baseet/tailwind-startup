@@ -600,6 +600,26 @@ video {
   border-color: rgba(229, 231, 235, var(--tw-border-opacity));
 }
 
+.primary-color{
+  color:#BA68C8;
+}
+
+.primary-bg-color{
+  background-color:#BA68C8;
+}
+
+.active-btn{
+  backgound-color:#37474F;
+}
+
+.active-btn-hover{
+  background-color:#E6E6E6;
+}
+
+.all-font{
+  font-family:'Poppins', sans-serif;
+}
+
 .sr-only {
   position: absolute;
   width: 1px;
